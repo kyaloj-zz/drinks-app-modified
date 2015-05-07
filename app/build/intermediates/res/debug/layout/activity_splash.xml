@@ -1,0 +1,14 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.teeshirt.drinksapp.splash"
+    android:background="#000">
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:src="@drawable/blackwhiskysplash"/>
+
+
+</RelativeLayout>
+<!-- From: file:/home/teeshirt/AndroidStudioProjects/DrinksApp/app/src/main/res/layout/activity_splash.xml -->
