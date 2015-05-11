@@ -35,48 +35,61 @@ MERGED from com.android.support:support-v4:22.0.0:22:5
 		ADDED from AndroidManifest.xml:8:9
 meta-data#com.facebook.sdk.ApplicationId
 ADDED from AndroidManifest.xml:13:9
+<<<<<<< HEAD
 	android:name
 		ADDED from AndroidManifest.xml:13:20
 	android:value
 		ADDED from AndroidManifest.xml:13:66
-activity#com.example.teeshirt.drinksapp.Login
-ADDED from AndroidManifest.xml:14:9
-	android:label
-		ADDED from AndroidManifest.xml:16:13
-	android:name
+=======
+	android:value
 		ADDED from AndroidManifest.xml:15:13
+	android:name
+		ADDED from AndroidManifest.xml:14:13
+>>>>>>> 3ae98bd19d5d2b29d1c99ac971226884ff53607b
+activity#com.example.teeshirt.drinksapp.Login
+ADDED from AndroidManifest.xml:17:9
+	android:label
+		ADDED from AndroidManifest.xml:19:13
+	android:name
+		ADDED from AndroidManifest.xml:18:13
 intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
-ADDED from AndroidManifest.xml:17:13
+ADDED from AndroidManifest.xml:20:13
 action#android.intent.action.MAIN
-ADDED from AndroidManifest.xml:18:17
+ADDED from AndroidManifest.xml:21:17
 	android:name
-		ADDED from AndroidManifest.xml:18:25
+		ADDED from AndroidManifest.xml:21:25
 category#android.intent.category.DEFAULT
-ADDED from AndroidManifest.xml:20:17
+ADDED from AndroidManifest.xml:23:17
 	android:name
-		ADDED from AndroidManifest.xml:20:27
+		ADDED from AndroidManifest.xml:23:27
 activity#com.example.teeshirt.drinksapp.splash
-ADDED from AndroidManifest.xml:23:9
+ADDED from AndroidManifest.xml:26:9
 	android:label
-		ADDED from AndroidManifest.xml:25:13
+		ADDED from AndroidManifest.xml:28:13
 	android:name
-		ADDED from AndroidManifest.xml:24:13
+		ADDED from AndroidManifest.xml:27:13
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from AndroidManifest.xml:26:13
+ADDED from AndroidManifest.xml:29:13
 category#android.intent.category.LAUNCHER
-ADDED from AndroidManifest.xml:29:17
+ADDED from AndroidManifest.xml:32:17
 	android:name
-		ADDED from AndroidManifest.xml:29:27
+		ADDED from AndroidManifest.xml:32:27
 activity#com.facebook.FacebookActivity
-ADDED from AndroidManifest.xml:32:9
+ADDED from AndroidManifest.xml:35:9
 	android:label
-		ADDED from AndroidManifest.xml:36:13
+		ADDED from AndroidManifest.xml:38:13
 	android:configChanges
-		ADDED from AndroidManifest.xml:34:13
+		ADDED from AndroidManifest.xml:37:13
 	android:theme
-		ADDED from AndroidManifest.xml:35:13
+		ADDED from AndroidManifest.xml:39:13
 	android:name
-		ADDED from AndroidManifest.xml:33:13
+		ADDED from AndroidManifest.xml:36:13
+activity#com.example.teeshirt.drinksapp.MainActivity
+ADDED from AndroidManifest.xml:40:9
+	android:label
+		ADDED from AndroidManifest.xml:42:13
+	android:name
+		ADDED from AndroidManifest.xml:41:13
 uses-sdk
 INJECTED from AndroidManifest.xml:0:0 reason: use-sdk injection requested
 MERGED from com.android.support:appcompat-v7:22.0.0:20:5
