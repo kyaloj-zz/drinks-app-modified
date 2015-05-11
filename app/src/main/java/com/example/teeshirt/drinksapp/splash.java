@@ -18,7 +18,7 @@ public class splash extends ActionBarActivity {
             public void run(){
                 try {
                    sleep(5000);
-                    Intent intent = new Intent(splash.this, Login.class);
+                    Intent intent = new Intent(splash.this, WebPage.class);
                     startActivity(intent);
                     finish();
                 }

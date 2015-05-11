@@ -41,6 +41,10 @@
             android:name=".MainActivity"
             android:label="@string/title_activity_main" >
         </activity>
+        <activity
+            android:name=".WebPage"
+            android:label="@string/title_activity_web_page" >
+        </activity>
     </application>
 
 </manifest>

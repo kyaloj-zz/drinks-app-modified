@@ -429,7 +429,7 @@ int id action_menu_presenter 0x7f090003
 int id action_mode_bar 0x7f09003c
 int id action_mode_bar_stub 0x7f09003b
 int id action_mode_close_button 0x7f09002e
-int id action_settings 0x7f090058
+int id action_settings 0x7f090059
 int id activity_chooser_view_content 0x7f09002f
 int id always 0x7f090016
 int id beginning 0x7f090013
@@ -503,6 +503,7 @@ int id top 0x7f090026
 int id unknown 0x7f090020
 int id up 0x7f090008
 int id useLogo 0x7f090012
+int id webView 0x7f090058
 int id withText 0x7f09001a
 int id wrap_content 0x7f09001d
 int integer abc_config_activityDefaultDur 0x7f0a0000
@@ -544,9 +545,11 @@ int layout messenger_button_send_white_large 0x7f040020
 int layout messenger_button_send_white_round 0x7f040021
 int layout messenger_button_send_white_small 0x7f040022
 int layout support_simple_spinner_dropdown_item 0x7f040023
+int layout web_page 0x7f040024
 int menu menu_login 0x7f0d0000
 int menu menu_main 0x7f0d0001
 int menu menu_splash 0x7f0d0002
+int menu menu_web_page 0x7f0d0003
 int mipmap ic_launcher 0x7f030000
 int string abc_action_bar_home_description 0x7f0b0000
 int string abc_action_bar_home_description_format 0x7f0b0001
@@ -588,6 +591,7 @@ int string messenger_send_button_text 0x7f0b0024
 int string title_activity_login 0x7f0b0025
 int string title_activity_main 0x7f0b0026
 int string title_activity_splash 0x7f0b0027
+int string title_activity_web_page 0x7f0b0028
 int style Animation_AppCompat_DropDownUp 0x7f0c0000
 int style AppTheme 0x7f0c0001
 int style Base_Animation_AppCompat_DropDownUp 0x7f0c0002

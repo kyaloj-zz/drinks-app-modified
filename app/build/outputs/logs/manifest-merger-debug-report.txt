@@ -35,17 +35,10 @@ MERGED from com.android.support:support-v4:22.0.0:22:5
 		ADDED from AndroidManifest.xml:8:9
 meta-data#com.facebook.sdk.ApplicationId
 ADDED from AndroidManifest.xml:13:9
-<<<<<<< HEAD
-	android:name
-		ADDED from AndroidManifest.xml:13:20
-	android:value
-		ADDED from AndroidManifest.xml:13:66
-=======
-	android:value
-		ADDED from AndroidManifest.xml:15:13
 	android:name
 		ADDED from AndroidManifest.xml:14:13
->>>>>>> 3ae98bd19d5d2b29d1c99ac971226884ff53607b
+	android:value
+		ADDED from AndroidManifest.xml:15:13
 activity#com.example.teeshirt.drinksapp.Login
 ADDED from AndroidManifest.xml:17:9
 	android:label
@@ -90,6 +83,12 @@ ADDED from AndroidManifest.xml:40:9
 		ADDED from AndroidManifest.xml:42:13
 	android:name
 		ADDED from AndroidManifest.xml:41:13
+activity#com.example.teeshirt.drinksapp.WebPage
+ADDED from AndroidManifest.xml:44:9
+	android:label
+		ADDED from AndroidManifest.xml:46:13
+	android:name
+		ADDED from AndroidManifest.xml:45:13
 uses-sdk
 INJECTED from AndroidManifest.xml:0:0 reason: use-sdk injection requested
 MERGED from com.android.support:appcompat-v7:22.0.0:20:5

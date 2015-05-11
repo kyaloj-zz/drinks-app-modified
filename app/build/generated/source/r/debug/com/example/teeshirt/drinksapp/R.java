@@ -1495,7 +1495,7 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f09003c;
         public static final int action_mode_bar_stub=0x7f09003b;
         public static final int action_mode_close_button=0x7f09002e;
-        public static final int action_settings=0x7f090058;
+        public static final int action_settings=0x7f090059;
         public static final int activity_chooser_view_content=0x7f09002f;
         public static final int always=0x7f090016;
         public static final int beginning=0x7f090013;
@@ -1569,6 +1569,7 @@ containing a value of this type.
         public static final int unknown=0x7f090020;
         public static final int up=0x7f090008;
         public static final int useLogo=0x7f090012;
+        public static final int webView=0x7f090058;
         public static final int withText=0x7f09001a;
         public static final int wrap_content=0x7f09001d;
     }
@@ -1614,11 +1615,13 @@ containing a value of this type.
         public static final int messenger_button_send_white_round=0x7f040021;
         public static final int messenger_button_send_white_small=0x7f040022;
         public static final int support_simple_spinner_dropdown_item=0x7f040023;
+        public static final int web_page=0x7f040024;
     }
     public static final class menu {
         public static final int menu_login=0x7f0d0000;
         public static final int menu_main=0x7f0d0001;
         public static final int menu_splash=0x7f0d0002;
+        public static final int menu_web_page=0x7f0d0003;
     }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;
@@ -1664,6 +1667,7 @@ containing a value of this type.
         public static final int title_activity_login=0x7f0b0025;
         public static final int title_activity_main=0x7f0b0026;
         public static final int title_activity_splash=0x7f0b0027;
+        public static final int title_activity_web_page=0x7f0b0028;
     }
     public static final class style {
         public static final int Animation_AppCompat_DropDownUp=0x7f0c0000;
