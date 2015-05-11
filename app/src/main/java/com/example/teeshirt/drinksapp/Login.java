@@ -76,6 +76,8 @@ public class Login extends ActionBarActivity {
                 AccessToken accessToken = loginResult.getAccessToken();
                 Profile profile = Profile.getCurrentProfile();
                 displayWelcome(profile);
+
+                startActivity(new Intent(getActivity(),MainActivity.class));
             }
 
             @Override

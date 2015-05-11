@@ -240,6 +240,7 @@
     <!-- From: file:/home/teeshirt/AndroidStudioProjects/DrinksApp/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="title_activity_login">Login</string>
+    <string name="title_activity_main">MainActivity</string>
     <string name="title_activity_splash">splash</string>
     <!-- From: file:/home/teeshirt/AndroidStudioProjects/DrinksApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>

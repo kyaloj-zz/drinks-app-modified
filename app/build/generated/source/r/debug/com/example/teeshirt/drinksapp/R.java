@@ -1601,22 +1601,24 @@ containing a value of this type.
         public static final int abc_search_view=0x7f040014;
         public static final int abc_simple_dropdown_hint=0x7f040015;
         public static final int activity_login=0x7f040016;
-        public static final int activity_splash=0x7f040017;
-        public static final int com_facebook_activity_layout=0x7f040018;
-        public static final int com_facebook_login_fragment=0x7f040019;
-        public static final int com_facebook_tooltip_bubble=0x7f04001a;
-        public static final int fragment_login=0x7f04001b;
-        public static final int messenger_button_send_blue_large=0x7f04001c;
-        public static final int messenger_button_send_blue_round=0x7f04001d;
-        public static final int messenger_button_send_blue_small=0x7f04001e;
-        public static final int messenger_button_send_white_large=0x7f04001f;
-        public static final int messenger_button_send_white_round=0x7f040020;
-        public static final int messenger_button_send_white_small=0x7f040021;
-        public static final int support_simple_spinner_dropdown_item=0x7f040022;
+        public static final int activity_main=0x7f040017;
+        public static final int activity_splash=0x7f040018;
+        public static final int com_facebook_activity_layout=0x7f040019;
+        public static final int com_facebook_login_fragment=0x7f04001a;
+        public static final int com_facebook_tooltip_bubble=0x7f04001b;
+        public static final int fragment_login=0x7f04001c;
+        public static final int messenger_button_send_blue_large=0x7f04001d;
+        public static final int messenger_button_send_blue_round=0x7f04001e;
+        public static final int messenger_button_send_blue_small=0x7f04001f;
+        public static final int messenger_button_send_white_large=0x7f040020;
+        public static final int messenger_button_send_white_round=0x7f040021;
+        public static final int messenger_button_send_white_small=0x7f040022;
+        public static final int support_simple_spinner_dropdown_item=0x7f040023;
     }
     public static final class menu {
         public static final int menu_login=0x7f0d0000;
-        public static final int menu_splash=0x7f0d0001;
+        public static final int menu_main=0x7f0d0001;
+        public static final int menu_splash=0x7f0d0002;
     }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;
@@ -1660,7 +1662,8 @@ containing a value of this type.
         public static final int hello_world=0x7f0b0023;
         public static final int messenger_send_button_text=0x7f0b0024;
         public static final int title_activity_login=0x7f0b0025;
-        public static final int title_activity_splash=0x7f0b0026;
+        public static final int title_activity_main=0x7f0b0026;
+        public static final int title_activity_splash=0x7f0b0027;
     }
     public static final class style {
         public static final int Animation_AppCompat_DropDownUp=0x7f0c0000;
